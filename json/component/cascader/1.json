@@ -1,0 +1,9 @@
+{   
+    "multiple":{
+    "parameter":"multiple",
+    "default":"false",
+    "description":"是否支持多级",
+    "type":"Boolean",
+    "option":"true/false"
+    }    
+}

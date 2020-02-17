@@ -1,0 +1,3 @@
+multiple提供选1级或者2级功能
+getArr事件回调参数为省市区名称包括编码
+clearCascaderData事件触发条件为点击清除键时

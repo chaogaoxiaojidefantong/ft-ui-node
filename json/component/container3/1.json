@@ -1,0 +1,16 @@
+{   
+    "width":{
+    "parameter":"width",
+    "default":"unset",
+    "description":"设置容器的宽度",
+    "type":"String",
+    "option":"任意宽度值"
+    },
+    "height":{
+        "parameter":"height",
+        "default":"unset",
+        "description":"设置容器的高度",
+        "type":"String",
+        "option":"任意高度值"
+        }  
+}

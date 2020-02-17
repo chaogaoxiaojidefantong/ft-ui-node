@@ -1,0 +1,3 @@
+<ft-line leftCon='姓名'><b >饭桶</b></ft-line>
+<ft-line leftCon='出生日期'><b >2007-4-20</b></ft-line>
+<ft-line leftCon='出生日期' :maohao='false'><b >2007-4-20</b></ft-line>

@@ -1,0 +1,7 @@
+{   
+    "getArr":{
+    "name":"getArr",
+    "callback":"选中后返回的省市区",
+    "description":"是否支持多级"
+    }   
+}

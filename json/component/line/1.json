@@ -1,0 +1,30 @@
+{   
+    "leftCon":{
+    "parameter":"leftCon",
+    "default":"",
+    "description":"冒号左边的内容",
+    "type":"String",
+    "option":"-"
+    },
+    "leftWidth":{
+        "parameter":"leftWidth",
+        "default":"70px",
+        "description":"冒号左边样式的宽度",
+        "type":"String",
+        "option":"-"
+    },
+    "leftHeight":{
+        "parameter":"leftHeight",
+        "default":"18px",
+        "description":"冒号左边样式的宽度",
+        "type":"String",
+        "option":"-"
+    },
+    "maohao":{
+        "parameter":"maohao",
+        "default":"true",
+        "description":"选择要不要冒号",
+        "type":"Boolean",
+        "option":"true/false"
+    }  
+}

@@ -1,0 +1,23 @@
+        <ft-cascader ></ft-cascader>
+        <ft-cascader multiple  @getArr="getArr" @clearCascaderData="clear"></ft-cascader>
+        <script lang="ts">
+import Vue from "vue";
+interface getArrIe {
+  area: string;
+  area_code: number;
+  city: string;
+  cityCode: number;
+  province: string;
+  province_code: number;
+}
+export default Vue.extend({
+  methods: {
+    getArr(obj:getArrIe){
+
+    },
+    clear(){
+      
+    }
+  }
+});
+</script>

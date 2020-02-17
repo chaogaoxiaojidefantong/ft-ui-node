@@ -1,0 +1,5 @@
+
+import Vue from 'vue'
+import 'ftui/dist/ftui.css'
+import {FtButton} from 'ftui
+Vue.component(Button.name, FtButton)

@@ -1,0 +1,10 @@
+{   
+    "bg":{
+    "name":"bg",
+    "description":"背景层"
+    }, 
+    "content":{
+    "name":"content",
+    "description":"内容层,也就是上面一层"
+    }  
+}

@@ -1,0 +1,4 @@
+import Vue from 'vue'
+import {ftui} from 'ftui'
+import 'ftui/dist/ftui.css'
+Vue.use(ftui)
