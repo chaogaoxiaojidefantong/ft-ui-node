@@ -1,0 +1,2 @@
+          <ft-divider></ft-divider>
+          <ft-divider width="100px" height='2px'></ft-divider>

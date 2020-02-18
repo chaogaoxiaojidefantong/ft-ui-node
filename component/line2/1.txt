@@ -1,0 +1,15 @@
+        <ft-line2 title='密码框' placeholder='请输入密码' @submit='submit'></ft-line2>
+        <ft-line2 title='支付密码' placeholder='请输入支付密码' @cancel='cancel' @submit='submit'></ft-line2>
+<script lang="ts">
+import Vue from "vue";
+export default Vue.extend({
+  methods: {
+      cancel(){
+         
+      },
+      submit(pwd:string){
+          
+      }
+  }
+});
+</script>

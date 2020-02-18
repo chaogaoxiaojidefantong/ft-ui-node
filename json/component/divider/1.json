@@ -1,0 +1,16 @@
+{   
+    "width":{
+    "parameter":"width",
+    "default":"1px",
+    "description":"分割线的宽度",
+    "type":"String",
+    "option":"-"
+    },
+    "height":{
+        "parameter":"height",
+        "default":"80px",
+        "description":"分割线的高度",
+        "type":"String",
+        "option":"-"
+    }    
+}

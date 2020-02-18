@@ -1,0 +1,12 @@
+{   
+    "cancel":{
+    "name":"cancel",
+    "callback":"-",
+    "description":"用户点击取消后清空输入值,并触发此事件"
+    }, 
+    "submit":{
+        "name":"submit",
+        "callback":"用户输入的值",
+        "description":"用户点击确定后触发的事件"
+    }
+}

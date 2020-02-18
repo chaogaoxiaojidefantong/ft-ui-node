@@ -1,0 +1,16 @@
+{   
+    "title":{
+    "parameter":"title",
+    "default":"-",
+    "description":"标题内容",
+    "type":"String",
+    "option":"-"
+    },
+    "placeholder":{
+    "parameter":"placeholder",
+    "default":"-",
+    "description":"密码框的提示词",
+    "type":"String",
+    "option":"-"
+    } 
+}
