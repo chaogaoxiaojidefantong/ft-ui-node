@@ -1,0 +1,9 @@
+{   
+    "mes":{
+    "parameter":"mes",
+    "default":"-",
+    "description":"要复制的内容",
+    "type":"String",
+    "option":"-"
+    }  
+}

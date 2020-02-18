@@ -1,0 +1,18 @@
+<div><b>{{content1}}</b><ft-copy :mes='content1'></ft-copy></div>
+<div><b>{{content2}}</b><ft-copy :mes='content2' @success='success'>复制链接</ft-copy></div>
+<script lang="ts">
+import Vue from "vue";
+export default Vue.extend({
+  data() {
+    return {
+      content1: "leimushijiezuikeai",
+      content2: "kuangsan"
+    };
+  },
+  methods: {
+    success() {
+      alert("复制成功");
+    }
+  }
+});
+</script>

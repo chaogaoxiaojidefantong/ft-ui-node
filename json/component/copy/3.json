@@ -1,0 +1,7 @@
+{   
+    "success":{
+    "name":"success",
+    "callback":"-",
+    "description":"复制成功后触发的事件"
+    }   
+}
