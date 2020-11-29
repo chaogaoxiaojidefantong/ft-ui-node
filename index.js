@@ -2,7 +2,8 @@ var express = require('express');
 const fileUtil=require('./util/FileUtil').fileUtil;
 const commonUtil=require('./util/CommonUtil').commonUtil;
 var app = express();
- app.listen(8081,  ()=> {
+ app.listen(8103,  ()=> {
+   console.log('跑起来了')
 })
 app.all('/File/read', (req, res, next)=> {
   commonUtil.setCorsAllow(res);
